@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* main css */
+
+.my_intro{
+    text-align: justify;
+}
+.form-check-agree{
+    margin-left: 12px;
+}
+
+
+/* view */
+
+.btn-ex{
+    float: left;
+    margin-right: 10px;
+}
+
+.txt-subtitle{
+    font-weight: 200;
+}
